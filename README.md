@@ -2,7 +2,7 @@
 
 Mini‑projeto em **Python** para calcular em **quantos anos** a população do **País A** ultrapassa (ou iguala) a do **País B**, considerando **taxas anuais de crescimento** constantes.
 
-Feito para **ensino médio**: linguagem direta e foco em **entrada de dados**, **laços (`while`)**, **aritmética com porcentagem** e **saída formatada**.
+Foco em **entrada de dados**, **laços (`while`)**, **aritmética com porcentagem** e **saída formatada**.
 
 ---
 
