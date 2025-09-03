@@ -1,4 +1,4 @@
-# 🌍 Crescimento Populacional — País A vs País B (Versão Simples)
+# 🌍 Crescimento Populacional — País A vs País B
 
 Mini‑projeto em **Python** para calcular em **quantos anos** a população do **País A** ultrapassa (ou iguala) a do **País B**, considerando **taxas anuais de crescimento** constantes.
 
@@ -14,7 +14,7 @@ Feito para **ensino médio**: linguagem direta e foco em **entrada de dados**, *
 
 ---
 
-## 📝 Enunciado (adaptado ao mundo real)
+## 📝 Enunciado
 O Ministério do Planejamento deseja estimar quando o **País A** alcançará o **País B** em população.  
 Sabemos que:
 - População inicial do **País A**: `80.000` habitantes; **taxa anual**: `3%`
@@ -26,7 +26,7 @@ Sabemos que:
 
 ---
 
-## 🔎 Exemplo de execução (com os valores do enunciado)
+## 🔎 Exemplo de execução 
 ```
 === Crescimento Populacional: País A vs País B ===
 
